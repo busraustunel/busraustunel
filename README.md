@@ -1,6 +1,6 @@
 ### Hi there I'm BÜŞRA 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=busraustunel.busraustunel) [![Github](https://img.shields.io/github/followers/busraustunel?label=Followers&logo=Github)](https://github.com/busraustunel)
 
 
 
