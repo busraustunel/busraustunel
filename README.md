@@ -1,6 +1,6 @@
 ### Hi there I'm BÜŞRA 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=busraustunel.busraustunel) [![Github](https://img.shields.io/github/followers/busraustunel?label=Followers&logo=Github)](https://github.com/busraustunel)
+![](https://visitor-badge.laobi.icu/badge?page_id=busraustunel.busraustunel) 
 
 
 ## 🎓 I'm Jr. Mobile Developer
