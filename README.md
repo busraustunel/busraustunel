@@ -30,8 +30,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://www.google.com/search?q=c%23+readme+logo&rlz=1C1CHWL_trTR958TR958&oq=c%23+readme+logo&aqs=chrome..69i57j0i433i512j0i512l5j69i58.3365j0j7&sourceid=chrome&ie=UTF-8#imgrc=EznVHaYn92qWaM" alt="C#" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png" alt="SpringBoot" height="40" style="vertical-align:top; margin:4px">
