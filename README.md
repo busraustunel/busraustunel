@@ -56,7 +56,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=busraustunel&theme=gruvbox&hide_border=true" />
   </a>
  <a>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=busraustunel"/></a>
+ <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraustunel" /></a>
 </p>
 
 <br>
