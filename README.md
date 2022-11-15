@@ -56,6 +56,9 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=busraustunel&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+<p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busraustunel)](https://github.com/busraustunel/github-readme-stats)
+ </p>
 <br>
 
 <br>
