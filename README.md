@@ -5,7 +5,7 @@
 
 ## 🎓 I'm Jr. Mobile Developer
 
-- 🔭 I’m currently learning and working React Native.
+- I’m currently learning React Native.
 - I have developed a mobile application with flutter and java.
 - I also work with image processing and natural language processing.
 
