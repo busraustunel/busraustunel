@@ -49,7 +49,6 @@
 ## :trophy: My Github Stats:
 
 <br/>
-<br/>
 <p align="left">
   <a href="https://github.com/busraustunel">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=busraustunel&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -57,7 +56,8 @@
   </a>
 </p>
 <br>
-<br>
+
+
 
 [linkedin]: https://linkedin.com/in/busraustunel
 [mail]: mailto:bussraustunel@gmail.com
