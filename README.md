@@ -4,7 +4,7 @@
 
 
 
-##  I'm Jr. Mobile Developer
+##  I'm Mobile Developer
 
 - I’m currently learning React Native.
 - I have developed a mobile application with flutter and java.
