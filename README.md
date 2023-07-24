@@ -4,12 +4,6 @@
 
 
 
-##  I'm Frontend Developer
-
-- I’m currently learning React Native.
-- I have developed a mobile application with flutter and java.
-
-
 ## :email: Find me on:
 
 <!--
