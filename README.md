@@ -35,8 +35,8 @@
 <br/>
 <p align="start">
   <a href="https://github.com/busraustunel">
-  <img width="50%" height="300" src="https://github-readme-stats.vercel.app/api?username=busraustunel&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="50%" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=busraustunel&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" height="200" src="https://github-readme-stats.vercel.app/api?username=busraustunel&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=busraustunel&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
